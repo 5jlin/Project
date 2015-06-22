@@ -1,5 +1,6 @@
 # Project
 KNN
+
 use ibeacon for Indoor Localization by KNN(k-nearest neighbors algorithm)
 
 how to identify "nearest"? --> Correlation coefficient
